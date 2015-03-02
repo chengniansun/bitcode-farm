@@ -1,0 +1,8 @@
+lib/priv-set.o: ../coreutils-8.23/lib/priv-set.c \
+ /usr/include/stdc-predef.h lib/config.h ../coreutils-8.23/lib/priv-set.h
+
+/usr/include/stdc-predef.h:
+
+lib/config.h:
+
+../coreutils-8.23/lib/priv-set.h:

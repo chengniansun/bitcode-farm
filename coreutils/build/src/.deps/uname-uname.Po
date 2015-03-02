@@ -1,0 +1,6 @@
+src/uname-uname.o: ../coreutils-8.23/src/uname-uname.c \
+ /usr/include/stdc-predef.h ../coreutils-8.23/src/uname.h
+
+/usr/include/stdc-predef.h:
+
+../coreutils-8.23/src/uname.h:

@@ -1,0 +1,15 @@
+lib/asnprintf.o: ../coreutils-8.23/lib/asnprintf.c \
+ /usr/include/stdc-predef.h lib/config.h \
+ ../coreutils-8.23/lib/vasnprintf.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h
+
+/usr/include/stdc-predef.h:
+
+lib/config.h:
+
+../coreutils-8.23/lib/vasnprintf.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdarg.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h:

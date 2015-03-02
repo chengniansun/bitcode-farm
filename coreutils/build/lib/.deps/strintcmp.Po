@@ -1,0 +1,14 @@
+lib/strintcmp.o: ../coreutils-8.23/lib/strintcmp.c \
+ /usr/include/stdc-predef.h lib/config.h \
+ ../coreutils-8.23/lib/strnumcmp-in.h ../coreutils-8.23/lib/strnumcmp.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h
+
+/usr/include/stdc-predef.h:
+
+lib/config.h:
+
+../coreutils-8.23/lib/strnumcmp-in.h:
+
+../coreutils-8.23/lib/strnumcmp.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h:

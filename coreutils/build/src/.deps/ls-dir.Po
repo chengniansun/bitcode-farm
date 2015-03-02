@@ -1,0 +1,6 @@
+src/ls-dir.o: ../coreutils-8.23/src/ls-dir.c /usr/include/stdc-predef.h \
+ ../coreutils-8.23/src/ls.h
+
+/usr/include/stdc-predef.h:
+
+../coreutils-8.23/src/ls.h:

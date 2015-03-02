@@ -1,0 +1,8 @@
+lib/sockets.o: ../coreutils-8.23/lib/sockets.c /usr/include/stdc-predef.h \
+ lib/config.h ../coreutils-8.23/lib/sockets.h
+
+/usr/include/stdc-predef.h:
+
+lib/config.h:
+
+../coreutils-8.23/lib/sockets.h:
