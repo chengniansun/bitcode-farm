@@ -1,0 +1,9 @@
+#! /bin/sh
+#
+# Created by configure
+
+CC="/home/neo/workspace/basic-block-analyzer/basic-block-analyzer/ll-parser/scripts/ll-cc.py"; export CC
+"../httpd-2.2.29/configure" \
+"CC=/home/neo/workspace/basic-block-analyzer/basic-block-analyzer/ll-parser/scripts/ll-cc.py" \
+"CXX=/home/neo/workspace/basic-block-analyzer/basic-block-analyzer/ll-parser/scripts/ll-cxx.py" \
+"$@"

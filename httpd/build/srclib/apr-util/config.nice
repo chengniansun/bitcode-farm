@@ -1,0 +1,18 @@
+#! /bin/sh
+#
+# Created by configure
+
+CC="/home/neo/workspace/basic-block-analyzer/basic-block-analyzer/ll-parser/scripts/ll-cc.py"; export CC
+"/research-data/bitcode-farm/httpd/httpd-2.2.29/srclib/apr-util/configure" \
+"--disable-option-checking" \
+"CC=/home/neo/workspace/basic-block-analyzer/basic-block-analyzer/ll-parser/scripts/ll-cc.py" \
+"CXX=/home/neo/workspace/basic-block-analyzer/basic-block-analyzer/ll-parser/scripts/ll-cxx.py" \
+"--cache-file=/dev/null" \
+"--srcdir=/research-data/bitcode-farm/httpd/httpd-2.2.29/srclib/apr-util" \
+"--with-apr=../apr" \
+"--prefix=/usr/local/apache2" \
+"--exec-prefix=/usr/local/apache2" \
+"--libdir=/usr/local/apache2/lib" \
+"--includedir=/usr/local/apache2/include" \
+"--bindir=/usr/local/apache2/bin" \
+"$@"
