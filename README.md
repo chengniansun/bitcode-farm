@@ -6,6 +6,7 @@
 3. GNU Coreutils (v8.23)
 4. GNU Scientific Library (v1.9)
 5. GNU Bash (v4.3)
+6. Cherokee Web Server (v1.2.101)
 
 
 
