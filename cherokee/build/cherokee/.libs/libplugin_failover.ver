@@ -1,0 +1,7 @@
+{ global:
+cherokee_balancer_failover_configure;
+cherokee_balancer_failover_free;
+cherokee_balancer_failover_new;
+cherokee_failover_info;
+cherokee_plugin_failover_init;
+local: *; };

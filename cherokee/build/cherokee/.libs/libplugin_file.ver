@@ -1,0 +1,13 @@
+{ global:
+cherokee_file_info;
+cherokee_handler_file_add_headers;
+cherokee_handler_file_configure;
+cherokee_handler_file_custom_init;
+cherokee_handler_file_free;
+cherokee_handler_file_init;
+cherokee_handler_file_new;
+cherokee_handler_file_props_free;
+cherokee_handler_file_seek;
+cherokee_handler_file_step;
+cherokee_plugin_file_init;
+local: *; };

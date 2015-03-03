@@ -1,0 +1,5 @@
+{ global:
+cherokee_plugin_rehost_init;
+cherokee_rehost_info;
+cherokee_vrule_rehost_new;
+local: *; };

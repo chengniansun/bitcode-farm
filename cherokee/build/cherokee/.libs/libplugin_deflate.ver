@@ -1,0 +1,11 @@
+{ global:
+cherokee_deflate_info;
+cherokee_encoder_deflate_add_headers;
+cherokee_encoder_deflate_configure;
+cherokee_encoder_deflate_encode;
+cherokee_encoder_deflate_flush;
+cherokee_encoder_deflate_free;
+cherokee_encoder_deflate_init;
+cherokee_encoder_deflate_new;
+cherokee_plugin_deflate_init;
+local: *; };

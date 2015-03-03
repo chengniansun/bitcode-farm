@@ -1,0 +1,6 @@
+{ global:
+cherokee_drop_info;
+cherokee_handler_drop_configure;
+cherokee_handler_drop_new;
+cherokee_plugin_drop_init;
+local: *; };

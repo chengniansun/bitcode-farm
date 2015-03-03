@@ -1,0 +1,6 @@
+{ global:
+cherokee_authlist_info;
+cherokee_plugin_authlist_init;
+cherokee_validator_authlist_configure;
+cherokee_validator_authlist_new;
+local: *; };

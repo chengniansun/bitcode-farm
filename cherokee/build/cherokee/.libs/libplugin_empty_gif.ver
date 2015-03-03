@@ -1,0 +1,10 @@
+{ global:
+cherokee_empty_gif_info;
+cherokee_handler_empty_gif_add_headers;
+cherokee_handler_empty_gif_configure;
+cherokee_handler_empty_gif_free;
+cherokee_handler_empty_gif_init;
+cherokee_handler_empty_gif_new;
+cherokee_handler_empty_gif_step;
+cherokee_plugin_empty_gif_init;
+local: *; };

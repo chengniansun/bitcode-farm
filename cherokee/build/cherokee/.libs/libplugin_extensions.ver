@@ -1,0 +1,5 @@
+{ global:
+cherokee_extensions_info;
+cherokee_plugin_extensions_init;
+cherokee_rule_extensions_new;
+local: *; };

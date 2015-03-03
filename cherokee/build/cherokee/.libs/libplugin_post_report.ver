@@ -1,0 +1,10 @@
+{ global:
+cherokee_handler_post_report_add_headers;
+cherokee_handler_post_report_configure;
+cherokee_handler_post_report_free;
+cherokee_handler_post_report_init;
+cherokee_handler_post_report_new;
+cherokee_handler_post_report_step;
+cherokee_plugin_post_report_init;
+cherokee_post_report_info;
+local: *; };

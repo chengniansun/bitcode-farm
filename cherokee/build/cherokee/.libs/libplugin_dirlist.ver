@@ -1,0 +1,11 @@
+{ global:
+cherokee_dirlist_info;
+cherokee_handler_dirlist_add_headers;
+cherokee_handler_dirlist_configure;
+cherokee_handler_dirlist_free;
+cherokee_handler_dirlist_init;
+cherokee_handler_dirlist_new;
+cherokee_handler_dirlist_props_free;
+cherokee_handler_dirlist_step;
+cherokee_plugin_dirlist_init;
+local: *; };

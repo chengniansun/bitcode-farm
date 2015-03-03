@@ -1,0 +1,5 @@
+cherokee_handler_secdownload_configure
+cherokee_handler_secdownload_new
+cherokee_handler_secdownload_props_free
+cherokee_plugin_secdownload_init
+cherokee_secdownload_info

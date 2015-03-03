@@ -1,0 +1,7 @@
+{ global:
+cherokee_balancer_ip_hash_configure;
+cherokee_balancer_ip_hash_free;
+cherokee_balancer_ip_hash_new;
+cherokee_ip_hash_info;
+cherokee_plugin_ip_hash_init;
+local: *; };

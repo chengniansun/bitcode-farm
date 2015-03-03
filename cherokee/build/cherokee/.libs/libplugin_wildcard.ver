@@ -1,0 +1,5 @@
+{ global:
+cherokee_plugin_wildcard_init;
+cherokee_vrule_wildcard_new;
+cherokee_wildcard_info;
+local: *; };

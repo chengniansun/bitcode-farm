@@ -1,0 +1,15 @@
+{ global:
+cherokee_htdigest_info;
+cherokee_plugin_htdigest_init;
+cherokee_validator_file_configure;
+cherokee_validator_file_free_base;
+cherokee_validator_file_get_full_path;
+cherokee_validator_file_init_base;
+cherokee_validator_file_props_free_base;
+cherokee_validator_file_props_init_base;
+cherokee_validator_htdigest_add_headers;
+cherokee_validator_htdigest_check;
+cherokee_validator_htdigest_configure;
+cherokee_validator_htdigest_free;
+cherokee_validator_htdigest_new;
+local: *; };

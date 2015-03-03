@@ -1,0 +1,9 @@
+cherokee_encoder_gzip_add_headers
+cherokee_encoder_gzip_configure
+cherokee_encoder_gzip_encode
+cherokee_encoder_gzip_flush
+cherokee_encoder_gzip_free
+cherokee_encoder_gzip_init
+cherokee_encoder_gzip_new
+cherokee_gzip_info
+cherokee_plugin_gzip_init

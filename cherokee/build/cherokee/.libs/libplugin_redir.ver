@@ -1,0 +1,9 @@
+{ global:
+cherokee_handler_redir_add_headers;
+cherokee_handler_redir_configure;
+cherokee_handler_redir_free;
+cherokee_handler_redir_init;
+cherokee_handler_redir_new;
+cherokee_plugin_redir_init;
+cherokee_redir_info;
+local: *; };

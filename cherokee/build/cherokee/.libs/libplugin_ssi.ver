@@ -1,0 +1,10 @@
+{ global:
+cherokee_handler_ssi_add_headers;
+cherokee_handler_ssi_configure;
+cherokee_handler_ssi_free;
+cherokee_handler_ssi_init;
+cherokee_handler_ssi_new;
+cherokee_handler_ssi_step;
+cherokee_plugin_ssi_init;
+cherokee_ssi_info;
+local: *; };

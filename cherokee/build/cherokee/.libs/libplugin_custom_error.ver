@@ -1,0 +1,6 @@
+{ global:
+cherokee_custom_error_info;
+cherokee_handler_custom_error_configure;
+cherokee_handler_custom_error_new;
+cherokee_plugin_custom_error_init;
+local: *; };

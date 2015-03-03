@@ -1,0 +1,5 @@
+{ global:
+cherokee_plugin_url_arg_init;
+cherokee_rule_url_arg_new;
+cherokee_url_arg_info;
+local: *; };

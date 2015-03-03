@@ -1,0 +1,21 @@
+{ global:
+cherokee_admin_info;
+cherokee_admin_server_reply_close_conn;
+cherokee_admin_server_reply_get_conns;
+cherokee_admin_server_reply_get_ports;
+cherokee_admin_server_reply_get_sources;
+cherokee_admin_server_reply_get_thread_num;
+cherokee_admin_server_reply_get_trace;
+cherokee_admin_server_reply_get_traffic;
+cherokee_admin_server_reply_kill_source;
+cherokee_admin_server_reply_set_backup_mode;
+cherokee_admin_server_reply_set_trace;
+cherokee_handler_admin_add_headers;
+cherokee_handler_admin_configure;
+cherokee_handler_admin_free;
+cherokee_handler_admin_init;
+cherokee_handler_admin_new;
+cherokee_handler_admin_read_post;
+cherokee_handler_admin_step;
+cherokee_plugin_admin_init;
+local: *; };

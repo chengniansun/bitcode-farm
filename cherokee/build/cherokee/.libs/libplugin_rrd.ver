@@ -1,0 +1,15 @@
+{ global:
+cherokee_collector_rrd_new;
+cherokee_plugin_rrd_init;
+cherokee_rrd_connection_configure;
+cherokee_rrd_connection_create_srv_db;
+cherokee_rrd_connection_create_vsrv_db;
+cherokee_rrd_connection_execute;
+cherokee_rrd_connection_get;
+cherokee_rrd_connection_kill;
+cherokee_rrd_connection_mrproper;
+cherokee_rrd_connection_spawn;
+cherokee_rrd_info;
+cherokee_rrd_intervals;
+rrd_connection;
+local: *; };

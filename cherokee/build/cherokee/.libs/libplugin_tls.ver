@@ -1,0 +1,5 @@
+{ global:
+cherokee_plugin_tls_init;
+cherokee_rule_tls_new;
+cherokee_tls_info;
+local: *; };

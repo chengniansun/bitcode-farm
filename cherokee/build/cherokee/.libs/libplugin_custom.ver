@@ -1,0 +1,11 @@
+{ global:
+cherokee_custom_info;
+cherokee_logger_custom_flush;
+cherokee_logger_custom_free;
+cherokee_logger_custom_init;
+cherokee_logger_custom_new;
+cherokee_logger_custom_reopen;
+cherokee_logger_custom_write_access;
+cherokee_logger_custom_write_string;
+cherokee_plugin_custom_init;
+local: *; };

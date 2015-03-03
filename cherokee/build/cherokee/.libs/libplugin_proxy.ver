@@ -1,0 +1,23 @@
+{ global:
+cherokee_handler_proxy_add_headers;
+cherokee_handler_proxy_configure;
+cherokee_handler_proxy_conn_free;
+cherokee_handler_proxy_conn_get_addrinfo;
+cherokee_handler_proxy_conn_init_socket;
+cherokee_handler_proxy_conn_new;
+cherokee_handler_proxy_conn_recv_headers;
+cherokee_handler_proxy_conn_release;
+cherokee_handler_proxy_conn_send;
+cherokee_handler_proxy_free;
+cherokee_handler_proxy_hosts_get;
+cherokee_handler_proxy_hosts_init;
+cherokee_handler_proxy_hosts_mrproper;
+cherokee_handler_proxy_init;
+cherokee_handler_proxy_new;
+cherokee_handler_proxy_poll_free;
+cherokee_handler_proxy_poll_get;
+cherokee_handler_proxy_poll_new;
+cherokee_handler_proxy_step;
+cherokee_plugin_proxy_init;
+cherokee_proxy_info;
+local: *; };
